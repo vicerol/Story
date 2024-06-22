@@ -1,0 +1,1 @@
+This is my first git trial exercise, aiming to learn more about using repositories. 
